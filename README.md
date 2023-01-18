@@ -69,8 +69,15 @@ Os dados da tabela foram recolhidos a partir do site do ICNF(Instituto da Conser
 
 Para o desenvolvimento deste projeto foram utilizadas as seguintes ferramentas, p5.js, Blender, Adobe Photoshop, Adobe After Effects. 
 
-**REFERNCIAS PARA A REALIZAÇÃO DO PROJETO
+**REFERÊNCIAS QUE AJUDARAM NA REALIZAÇÃO DO PROJETO
 
+[Tutorial imagem background](https://www.youtube.com/watch?v=GssGJTwKOG0)
+
+[Criar botão e dar reset](https://www.youtube.com/watch?v=lAtoaRz78I4)
+
+[Criar elementos html](https://www.youtube.com/watch?v=Yk18ZKvXBj4)
+
+[Múltiplos ficheiros js](https://www.youtube.com/watch?v=Yk18ZKvXBj4) 
 
 Trabalho realizado por: 
 
