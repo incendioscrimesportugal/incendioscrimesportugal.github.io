@@ -21,7 +21,7 @@ A visualização é dividida por três partes, começando pela welcome page, dep
 
 **Welcome page 
 
-![Welcome Page.png](./anexos_relatório\Welcome Page.png)
+![Welcome Page.jpg](./anexos_relatório\Welcome Page.jpg)
 
 Esta é a página inicial, onde se apresenta o nome do projeto e dos criadores e um breve texto introdutório que tem como objetivo dar uma contextualização ao utilizador. 
 
@@ -29,7 +29,7 @@ Esta é a página inicial, onde se apresenta o nome do projeto e dos criadores e
 **Animação 
 
 
-![ANIMAÇÃO.png](./anexos_relatório\ANIMAÇÃO.png)
+![ANIMACAO.jpg](./anexos_relatório\ANIMACAO.jpg)
 
 
 Esta animação aparece logo em seguida da welcome page e funciona como complemento para entender a metáfora, criada entre os anéis de crescimento da árvore e os anos presentes na visualização. Serve também como meio transitório entre a welcome page e a visualização interativa.
@@ -38,8 +38,7 @@ Esta animação aparece logo em seguida da welcome page e funciona como compleme
 **Visualização interativa 
 
 
-![Visualização interativa..png](./anexos_relatório\Visualização interativa..png)
-
+![Visualização interativa.jpg](./anexos_relatório\Visualização interativa.jpg)
 
 
 Esta página apresenta os conteúdos da tabela de forma centrada ao canvas, em que no lado esquerdo apresenta os dados referentes à área queimada de portugal continental e do lado direito os dados referentes ao número de crimes florestais. Ao centro, estão os diferentes anos acompanhados pelas respetivas imagens dos anéis de crescimento da árvore. 
@@ -54,7 +53,7 @@ Na parte inferior e ao centro, colocou-se um botão de reset que permite descele
 
 Fizemos uma pesquisa de forma a elaborar a tabela com os dados que precisavamos:
 
-![Dados da tabela em excel.png](./anexos_relatório\Dados da tabela em excel.png)
+![Dados da tabela em excel.jpg](./anexos_relatório\Dados da tabela em excel.jpg)
 
 Ficheiro da tabela em csv e link para excel com dados da tabela: 
 [tabela final - lab proj - Folha1 (1).csv](..\..\..\..\..\..\Downloads\tabela final - lab proj - Folha1 (1).csv)
