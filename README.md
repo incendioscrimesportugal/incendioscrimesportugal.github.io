@@ -68,7 +68,10 @@ Os dados da tabela foram recolhidos a partir do site do ICNF(Instituto da Conser
 
 **TECNOLOGIAS USADAS PARA DESENVOLVIMENTO DO PROJETO 
 
-Para o desenvolvimento deste projeto foram utilizadas as seguintes ferramentas, p5.js, Blender, Adobe Photoshop, Adobe After Effects.  
+Para o desenvolvimento deste projeto foram utilizadas as seguintes ferramentas, p5.js, Blender, Adobe Photoshop, Adobe After Effects. 
+
+**REFERNCIAS PARA A REALIZAÇÃO DO PROJETO
+
 
 Trabalho realizado por: 
 
