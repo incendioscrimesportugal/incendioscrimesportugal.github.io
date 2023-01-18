@@ -21,15 +21,15 @@ A visualização é dividida por três partes, começando pela welcome page, dep
 
 **Welcome page 
 
-![Welcome Page.png](..\..\imagens para relatorio\Welcome Page.png)[](..\..\..\..\..\..\AppData\Local\Programs\Zettlr)
+![Welcome Page.png](./anexos_relatório\Welcome Page.png)
 
 Esta é a página inicial, onde se apresenta o nome do projeto e dos criadores e um breve texto introdutório que tem como objetivo dar uma contextualização ao utilizador. 
 
 
 **Animação 
 
-![ANIMAÇÃO.png](..\..\imagens para relatorio\ANIMAÇÃO.png)
 
+![ANIMAÇÃO.png](./anexos_relatório\ANIMAÇÃO.png)
 
 
 Esta animação aparece logo em seguida da welcome page e funciona como complemento para entender a metáfora, criada entre os anéis de crescimento da árvore e os anos presentes na visualização. Serve também como meio transitório entre a welcome page e a visualização interativa.
@@ -38,7 +38,7 @@ Esta animação aparece logo em seguida da welcome page e funciona como compleme
 **Visualização interativa 
 
 
-![Visualização interativa..png](..\..\imagens para relatorio\Visualização interativa..png)
+![Visualização interativa..png](./anexos_relatório\Visualização interativa..png)
 
 
 
@@ -54,7 +54,7 @@ Na parte inferior e ao centro, colocou-se um botão de reset que permite descele
 
 Fizemos uma pesquisa de forma a elaborar a tabela com os dados que precisavamos:
 
-![Dados da tabela em excel.png](..\..\imagens para relatorio\Dados da tabela em excel.png "Dados da tabela em excel.png")[](..\..\..\..\..\..\AppData\Local\Programs\Zettlr)
+![Dados da tabela em excel.png](./anexos_relatório\Dados da tabela em excel.png)
 
 Ficheiro da tabela em csv e link para excel com dados da tabela: 
 [tabela final - lab proj - Folha1 (1).csv](..\..\..\..\..\..\Downloads\tabela final - lab proj - Folha1 (1).csv)
