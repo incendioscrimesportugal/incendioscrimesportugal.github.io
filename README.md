@@ -53,7 +53,7 @@ Fizemos uma pesquisa de forma a elaborar a tabela com os dados que precisavamos:
 
 
 Ficheiro da tabela em csv e link para excel com dados da tabela: 
-[tabela final - lab proj - Folha1 (1).csv](..\..\..\..\..\..\Downloads\tabela final - lab proj - Folha1 (1).csv)
+[tabela_dados.csv](./tabela_dados.csv)
 
 https://docs.google.com/spreadsheets/d/1XnwZw1S8d8FlR3CjvhRGvkvDBMNkvxo-c3VKxccbbhQ/edit#gid=0
 
