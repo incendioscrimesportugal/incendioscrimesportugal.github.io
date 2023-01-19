@@ -3,7 +3,7 @@
 
 **CONTEXTUALIZAÇÃO DO PROJETO
 
-Este projeto tem como objetivo analisar a relação entre área queimada do território de Portugal Continental e o número de crimes florestais ocorridos ao longo de 20 anos (entre 2010 e 2020). Para representar essa relação, utilizámos a metáfora dos anéis de crescimento de uma árvore, onde cada anel representa um ano. 
+Este projeto tem como objetivo analisar a relação entre área queimada do território de Portugal Continental e o número de crimes florestais ocorridos ao longo de 10 anos (entre 2010 e 2020). Para representar essa relação, utilizámos a metáfora dos anéis de crescimento de uma árvore, onde cada anel representa um ano. 
 
 A floresta é um recurso indispensável para o meio ambiente e para sociedade, mas infelizmente, todos os anos é impactada por crimes ambientais.
 
